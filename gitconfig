@@ -60,5 +60,5 @@
 [init]
   defaultBranch = master
 [user]
-	email = e.sunza@web.de
+	email = gh api ...
 	name = es
